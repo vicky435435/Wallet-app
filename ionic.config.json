@@ -1,0 +1,7 @@
+{
+  "name": "Wallet-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
